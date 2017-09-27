@@ -1,0 +1,13 @@
+h2{
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+body{
+  background-color: black;
+}
+button {
+  cursor: pointer;
+  background-color: rgba(179, 172, 171);
+  font-size: 12px;
+}
